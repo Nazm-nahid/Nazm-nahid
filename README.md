@@ -1,12 +1,14 @@
 ### Hi there, I am Nazmul Hossain Nahid 👋
 <img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="230">
 <p><em>Computer Science and Engineering student at <a href="https://www.ruet.ac.bd/">RUET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
- </br>Ex Junior Software Engineer (Tainee) at <a href="https://qubitechbd.com/"> Bydo Engineering</a>
+ </br>Ex Junior Software Engineer (Tainee) at <a href="http://www.bydoengineering.com/"> Bydo Engineering</a>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 
 
-[![Linkedin: Nazmul Hossain Nahid](https://img.shields.io/badge/-Nazmul Hossain Nahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nazm-nahid/))](https://www.linkedin.com/in/nazm-nahid/)
+[![Linkedin: Nazmul Hossain Nahid](https://img.shields.io/badge/Nazmul Hossain Nahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nazm-nahid/))](https://www.linkedin.com/in/nazm-nahid/)
 [![GitHub: Nazm-nahid](https://img.shields.io/github/followers/Nazm-nahid?label=follow&style=social)](https://github.com/Nazm-nahid)
+
+[![Codeforces: Nahid](https://img.shields.io/codeforces/?style=social)](https://codeforces.com/profile/Nahid)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
