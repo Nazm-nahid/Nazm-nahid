@@ -1,4 +1,4 @@
-### Hi there, I am Nazmul Hossain Nahid 👋
+### Hi there, I am Nahid 👋
 <img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="230">
 <p><em>Computer Science and Engineering student at <a href="https://www.ruet.ac.bd/">RUET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  </br>Ex Junior Software Engineer (Tainee) at <a href="http://www.bydoengineering.com/"> Bydo Engineering</a>
