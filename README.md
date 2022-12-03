@@ -5,7 +5,7 @@
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 
 
-[![Linkedin: Nazmul Hossain Nahid](https://img.shields.io/badge/Nazmul Hossain Nahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nazm-nahid/))](https://www.linkedin.com/in/nazm-nahid/)
+[![Linkedin: nazm-nahid](https://img.shields.io/badge/-nazm-nahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazm-nahid/)](https://www.linkedin.com/in/nazm-nahid)
 [![GitHub: Nazm-nahid](https://img.shields.io/github/followers/Nazm-nahid?label=follow&style=social)](https://github.com/Nazm-nahid)
 
 [![Codeforces: Nahid](https://img.shields.io/codeforces/?style=social)](https://codeforces.com/profile/Nahid)
