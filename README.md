@@ -7,7 +7,7 @@
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 
 [![Codeforces: Nahid](https://img.shields.io/badge/-Nahid-blue?style=flat-square&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/Nahid)](https://codeforces.com/profile/Nahid)
-[![Linkedin: nazm-nahid](https://img.shields.io/badge/-nazm\-nahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazm-nahid/)](https://www.linkedin.com/in/nazm-nahid)
+[![Linkedin: nazm-nahid](https://img.shields.io/badge/-nazmnahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazm-nahid/)](https://www.linkedin.com/in/nazm-nahid)
 [![GitHub: Nazm-nahid](https://img.shields.io/github/followers/Nazm-nahid?label=follow&style=social)](https://github.com/Nazm-nahid)
 
 
