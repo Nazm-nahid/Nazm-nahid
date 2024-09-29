@@ -1,7 +1,7 @@
 ### Hi there, I am Nahid 👋
 <img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="230">
-<p><em>Associate Software Engineer at <a href="https://pathao.com/">Pathao Inc</a> 
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<!-- <p><em>Associate Software Engineer at <a href="https://pathao.com/">Pathao Inc</a> 
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 <p><em>Computer Science and Engineering student at <a href="https://www.ruet.ac.bd/">RUET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  </br>ACM ICPC Dhaka 2023 Regionalist
  </br>Ex Junior Software Engineer (Tainee) at <a href="http://www.bydoengineering.com/"> Bydo Engineering</a>
