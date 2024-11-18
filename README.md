@@ -13,4 +13,4 @@
 [![Linkedin: nazm-nahid](https://img.shields.io/badge/-nazmnahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazm-nahid/)](https://www.linkedin.com/in/nazm-nahid)
 [![GitHub: Nazm-nahid](https://img.shields.io/github/followers/Nazm-nahid?label=follow&style=social)](https://github.com/Nazm-nahid)
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nazm-nahid&theme=radical" alt="Nazm-nahid" /></p>
