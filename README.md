@@ -4,8 +4,8 @@
 
 | **Duration**   | **Role**                             | **Organization**   | **Technologies**         
 |------------|--------------------------------------|------------------------------|------------------------
-| **June,2024-December-2024**| Associate Software Engineer          | [Pathao Inc](#)    | Laravel , Vue Js , Git    
 | **January,2025-Present**| Software Engineer I          | [Pathao Inc](#)    | Laravel , Go, Vue Js , Nuxt Js, Git , Docker    
+| **June,2024-December-2024**| Associate Software Engineer          | [Pathao Inc](#)    | Laravel , Vue Js , Git    
 | **September 2021-September 2022**   | Junior Software Engineer (Trainee)   | [Bydo Engineering](#) | Java, Hibernate , Jsp , Javascript, Jquery       
 
 ### 📜 **Education**
